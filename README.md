@@ -37,3 +37,5 @@ Let me know if you'd like me to generate a **ZIP of all files**, help you **depl
 
 You're doing an excellent job getting this project ready! 💪
 
+![App Screenshot](sample image.png)
+
