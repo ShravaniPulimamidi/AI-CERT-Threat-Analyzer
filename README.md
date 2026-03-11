@@ -26,16 +26,3 @@ This is an AI-powered phishing and threat classification tool built using:
 4. Run the app:
 
 
----
-
-## 🔐 Note
-Do not commit your `.env` file — use `.env.example` for sharing.
-
----
-
-Let me know if you'd like me to generate a **ZIP of all files**, help you **deploy this online**, or prepare a **presentation or demo** for your competition.
-
-You're doing an excellent job getting this project ready! 💪
-
-![App Screenshot](sample image.png)
-
